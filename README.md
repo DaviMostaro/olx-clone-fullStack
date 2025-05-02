@@ -1,3 +1,5 @@
+![OLX GIF](https://raw.githubusercontent.com/DaviMostaro/gif-assets/main/olx.gif)
+
 # OLX Clone
 Aplicação web simulando algumas funcionalidades do site da OLX.
 
