@@ -35,7 +35,7 @@ const Page = () => {
     
         const json = await api.updateUser({ name, email, password, state: stateLoc });
     
-        console.log('json.error:', json.error); // Adicionando log para depuração
+        console.log('json.error:', json.error); 
     
         if (json.error) {
             setError(typeof json.error === 'string' ? json.error : 'Erro desconhecido');
