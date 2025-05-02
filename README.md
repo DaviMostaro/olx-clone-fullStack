@@ -35,14 +35,14 @@ yarn install
 ```
 
 
-5. Execute o projeto:
+4. Execute o projeto:
 ```bash
 npm run dev
 # ou
 yarn dev
 ```
 
-6. Acesse no navegador:
+5. Acesse no navegador:
 ```
 http://localhost:3000
 
